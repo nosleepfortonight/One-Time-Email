@@ -1,2 +1,2 @@
 # One-Time-Email
-One-Time email
+Small program that creates one-time email and gets its messages.
